@@ -1,0 +1,70 @@
+[
+   
+    {
+        "id":1,
+       "name":"Dr. Jhankar Mahabub",
+       "possiton":"CHIEF DOCTOR",
+       
+        
+        "image":"https://i.ibb.co/3NCjxQj/image.png",
+        "details":"Dr. Jhankar Mahabub, MD is a Infectious Disease Specialist in Nashville, TN and has over 18 years of experience in the medical field.  He graduated from University Of Arkansas College."
+
+       
+        
+        
+    },
+    {
+        "id":2,
+        "name":"Dr. Nafish Ahmed ",
+        "possiton":"PHYSICIAN",
+        
+       
+        "image":"https://image.shutterstock.com/image-photo/doctor-wearing-medical-mask-gloves-260nw-1675175770.jpg",
+        "details":"Dr. Nafish Ahmed, MD is a Obstetrics & Gynecology Specialist in Anniston more experience with Obstetric Care and Gynecologic Conditions than other specialists in his area "
+        
+        
+    },
+    {
+        "id":3,
+        "name":"Dr. Munmun Haq",
+        "possiton":"SENIOR DOCTOR",
+       
+       
+        "image":"https://images.theconversation.com/files/304957/original/file-20191203-66986-im7o5.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1200&h=1200.0&fit=crop",
+        "details":"Dr. Munmun Haq is a North Carolina native who grew up in the triangle area. Dr. Zick attended NC State University for both her undergraduate and .She has been practicing small animal  "
+        
+        
+       
+    },
+    {
+        "id":4,
+        "name":"Dr. Ellie Sophia",
+        "possiton":"SURGON",
+        
+       
+        "image":"https://health.gov/sites/default/files/styles/topic_card_image/public/2020-01/regular-checkups_banner.jpg?itok=2HIjcA3h",
+        "details":"Easy 30 days return, exchange available. Returns Policies may vary based on products and promotions. For full details on our Returns Policies, please click here."
+        
+        
+    },
+    {
+        "id":5,
+        "name":"Nasir Uddin Ahmed",
+        "possiton":"PHYSICIAN",
+        
+       
+        "image":"https://media.istockphoto.com/photos/portrait-of-mature-male-doctor-wearing-white-coat-standing-in-picture-id1203995945?k=20&m=1203995945&s=612x612&w=0&h=g0_ioNezBqP0NXrR_36-A5NDHIR0nLabFFrAQVk4PhA=",
+        "details":"Download free, beautiful high-quality photos curated by Richard.Download free, beautiful high-quality photos curated by Marcelo."
+    },
+    {
+        "id":6,
+        "name":"Dr. Murshida Parvin ",
+        "possiton":"SENIOR DOCTOR",
+        
+       
+        "image":"https://health.gov/sites/default/files/styles/topic_card_image/public/2020-01/regular-checkups_banner.jpg?itok=2HIjcA3h",
+        "details":"The National Cancer Institute's (NCI) Visuals Online provides a range of photographs and illustrations that may help ."
+    }
+
+
+]

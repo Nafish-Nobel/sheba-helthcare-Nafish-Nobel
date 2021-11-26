@@ -1,0 +1,64 @@
+[
+   
+    {
+        "id":1,
+       "name":"Heart Seargery",
+       
+        
+        "images":"https://post.healthline.com/wp-content/uploads/2020/09/open-heart-surgery_thumb.jpg",
+        "details":"Heart surgery can correct problems with the heart if other treatments haven't worked or can't be used."
+
+       
+        
+        
+    },
+    {
+        "id":2,
+        "name":"Orthopedi Surgery",
+        
+       
+        "images":"https://www.creativeboom.com/uploads/articles/8f/8fd5cc22a57d33f6bc96aaa296f712c068347ec6_810.jpg",
+        "details":"Orthopaedic surgery or orthopaedics, is the branch of surgery concerned  the musculoskeletal system."
+        
+        
+    },
+    {
+        "id":3,
+        "name":"Dentar Surgery",
+       
+       
+        "images":"https://images.indianexpress.com/2020/03/dental.jpg",
+        "details":"Dental surgery is any of a number of medical procedures that involve artificially modifying dentition."
+        
+        
+       
+    },
+    {
+        "id":4,
+        "name":"Medicine",
+        
+       
+        "images":"https://media.globalcitizen.org/thumbnails/43/84/4384649d-6f3c-4fa1-a9ef-45f3e16b0e7b/stethoscope_female_doctor_picture_.jpg__1600x900_q85_crop_subsampling-2.jpg",
+        "details":"Medicine is the science managing the diagnosis, prognosis, prevention, treatment, palliation of their injury or disease, and promoting their health."
+        
+        
+    },
+    {
+        "id":5,
+        "name":"Cancer",
+        
+       
+        "images":"https://edge-cdn.pratidintime.com/2020/11/Cancer.jpg",
+        "details":"The cancerous cells can invade and destroy surrounding healthy tissue, including organs."
+    },
+    {
+        "id":6,
+        "name":"Gynecology ",
+        
+       
+        "images":"https://thumbs.dreamstime.com/z/preemptive-ultrasound-mammography-done-gynecologist-modern-machine-201340889.jpg",
+        "details":"Gynaecology or gynecology is the medical practice dealing with the health of the female reproductive system."
+    }
+
+
+]
